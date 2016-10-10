@@ -1,3 +1,8 @@
+/*
+ * vim: set ft=rust:
+ * vim: set ft=reason:
+ */
+ 
 type floatPointType = {x: float, y: float};
 
 type intPointType = {x: int, y: int};
